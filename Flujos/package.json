@@ -1,0 +1,18 @@
+{
+    "name": "Proyecto_2",
+    "description": "Prueba de gitHub ",
+    "version": "0.0.1",
+    "dependencies": {
+        "node-red-contrib-counter": "0.1.5",
+        "node-red-contrib-moment": "3.0.1",
+        "node-red-dashboard": "2.9.8",
+        "node-red-node-rbe": "0.2.3",
+        "node-red-node-serialport": "0.6.8"
+    },
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
