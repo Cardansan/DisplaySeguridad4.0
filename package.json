@@ -2,7 +2,9 @@
     "name": "NuevoProyecto",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-moment": "3.0.3"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flow.json",
