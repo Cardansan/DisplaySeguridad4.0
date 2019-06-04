@@ -1,7 +1,7 @@
 # DisplaySeguridad4.0
 
 
-SSID: Display Industria 4.0
+SSID: Display_de_Seguridad
 
 Contraseña: d1spl4y4.0
 
